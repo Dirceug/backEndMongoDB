@@ -50,5 +50,4 @@ Valores iniciais:
 *Por exemplo, se tem 10 quiz cadastrados e a pessoas fez 6 tirando 10, a nota dela é 6. Se fez todos os 10 tirando 7 ou 8, teria algo próximo de 7,5. Ao fazer todos o quiz's registrados, o usuário recebe uma mensagem falando que logo novos questionários podem ser inseridos."
 
 ## Link do Rabiscoframe em Figma para termos uma ideia das telas em mobile:
-<a href="[https://instagram.com/dirceu.garcia](https://www.figma.com/file/hLa3KsHcvMbOV6S6T68F5W/Untitled?type=design&node-id=0%3A1&mode=design&t=gjrFziLy7bycwMDy-1
-)" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_171159.png" target="_blank"></a>
+<a href="https://www.figma.com/file/hLa3KsHcvMbOV6S6T68F5W/Untitled?type=design&node-id=0%3A1&mode=design&t=SS4XOgpvWYaFFak4-1" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_171159.png" target="_blank"></a>
