@@ -1,11 +1,11 @@
 # Grupo de trabalho do PI - Grupo APAIXONAUTAS
 
-* André Guerra - Front
-* Dirceu Garcia - Documentação
-* Juliana - Back e conexão com API
-* Vinícius Ávila - BD NoSQL
-* Vinícius Pereira - Back e coneção API -
-
+* André Guerra - Front End - Flutter
+* Dirceu Garcia - BD NoSQL - Mongo DB com Prisma e conexão do Node.
+* Juliana - Documentação - 
+* Vinícius Ávila - Back e conexão com API
+* Vinícius Pereira - Back e coneção com API - Hospedagem e 
+  
 
 ## Uso das matérias: 
 * Web III → desenvolvimento do site. -
@@ -53,5 +53,32 @@ Valores iniciais:
 <a href="https://github.com/Dirceug/backEndMongoDB/blob/main/back-end/figma_logo_icon_171159.png" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_171159.png" target="_blank"></a>
 
 ## Documentação de Engenharia de Software
+
+--------
+## Jira com Sprints e datas de conclusão
+
+-------
+## Desafios e superações:
+Espaço para detalhar os maiores desafio enfrentados e cada tecnologia e as maneiras utilizadas para vercer cada uma:
+
+### Mongo DB
+Distribuição das entidades
+Ligação de muitos para muitos
+Consistência dos dados?
+
+### Flutter 
+(planetas, anéis de saturno? Falta de imagem netuno?)
+
+### Node
+?????
+
+### Documentação
+?????
+
+
+------
+## Link com as entregas da sala:
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/leonardo_raiz_fatec_sp_gov_br/EdQzE5Ai6epLjbt1_2ZjI2ABry1rZaJrbst2wVMmA8Ujpg?rtime=fRfZFOnf20g&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
+
 
 
