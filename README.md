@@ -1,4 +1,4 @@
-# Grupo de trabalho do PI (Grupo DAVVG) 
+# Grupo de trabalho do PI - Grupo APAIXONAUTAS
 
 * André Guerra - Front
 * Dirceu Garcia - Documentação
